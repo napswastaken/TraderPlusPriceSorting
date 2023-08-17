@@ -67,7 +67,7 @@ This Python script is designed to read and organize pricing information from the
 
 Make sure you have the DayZ Mod TraderPlus installed and have the TraderPlusPriceConfig.json file available.
 Download the traderplus_price_sorter.py script from this repository.
-Modify the input_file variable in the script to point to the location of your TraderPlusPriceConfig.json file:
+Modify the input_file variable in the script to point to the location of your TraderPlusPriceConfig.json file
 
 After execution, the script will generate a new JSON file named TraderPlusPriceConfig_sorted.json in the same directory as your input file. 
 This sorted file will contain the pricing data organized by descending buy price.
